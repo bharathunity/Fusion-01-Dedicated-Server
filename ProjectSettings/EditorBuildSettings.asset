@@ -4,5 +4,8 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Dedicated Server/DS Scenes/DS_Server.unity
+    guid: 93b9dd3b608cc9d40a3d32081ad765ef
   m_configObjects: {}
