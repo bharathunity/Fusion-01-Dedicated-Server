@@ -1,0 +1,4 @@
+repository "FS 01@Fusion_01@cloud"
+  path "/"
+    br "/main"
+    co "/main"
